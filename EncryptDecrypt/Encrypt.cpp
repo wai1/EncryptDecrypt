@@ -14,7 +14,7 @@ std::string Encrypt::eCryptString(std::string rawString)
 
 	// Find the length of the string
 	rawStringLength = rawString.length();
-	std::cout << "The length of the string is: " << rawStringLength << std::endl;
+	// std::cout << "The length of the string is: " << rawStringLength << std::endl;
 
 	// Iterate through the raw string
 	for (stringIt = rawString.begin(); stringIt != rawString.end(); ++stringIt)

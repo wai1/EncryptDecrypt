@@ -42,9 +42,6 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="NumbersFile.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
     <Text Include="LettersFile.txt">
       <Filter>Resource Files</Filter>
     </Text>

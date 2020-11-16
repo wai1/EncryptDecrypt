@@ -1,5 +1,5 @@
 /*  The encryption part of the program will read in characters from "LettersFile.txt" file and check to 
- *  see if a character is duplicated by the adjacent character. If it is it will keep track of the  
+ *  see if a character is duplicated by the adjacent character. If it is, it will keep track of the  
  *  duplicates and insert the number of duplicates removing the duplicate letters. The encrypted file 
  *  will be saved to "encryptedFile.txt" file.
  * 
